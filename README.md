@@ -6,7 +6,7 @@ Resolver los siguientes problemas usando un notebook de python y subirlos a un r
 
    Los valores ASCII de { a, e, i, o, u }   son   { 97, 101, 105, 111, 117 }, respectivamente.
 
-   ```pseudocode
+   ```python
    n : int 
    n = int(input("Ingrese un número entero: ")) # Conversión a entero
 
@@ -23,7 +23,7 @@ Resolver los siguientes problemas usando un notebook de python y subirlos a un r
 
 2. Dada una cadena de longitud 1, determine si el código ASCII de primera letra de la cadena es par o no.
 
-   ```pseudocode
+   ```python
    a : str
    b : int
    
@@ -44,7 +44,7 @@ Resolver los siguientes problemas usando un notebook de python y subirlos a un r
 
    Los valores ASCII de { 0, 1, ..., 8, 9}   son   { 48, 49, ..., 56, 57 }, respectivamente.
 
-   ```pseudocode
+   ```python
    a : str
    b : int
    
@@ -68,7 +68,7 @@ Resolver los siguientes problemas usando un notebook de python y subirlos a un r
    Cero (0): "El número x es el neutro para la suma"
 
 
-   ```pseudocode
+   ```python
    x : float
    x = float(input("Ingrese un número: "))
    
@@ -90,7 +90,7 @@ Resolver los siguientes problemas usando un notebook de python y subirlos a un r
 5. Dado el centro y el radio de un círculo, determinar si un punto de R2 pertenece o no al interior del círculo.
 
 
-   ```pseudocode
+   ```python
    x : float
    y : float
    r : float
@@ -118,7 +118,7 @@ Resolver los siguientes problemas usando un notebook de python y subirlos a un r
 
 6. Dadas tres longitudes positivas, determinar si con esas longitudes se puede construir un triángulo.
 
-   ```pseudocode
+   ```python
    a : float
    b : float
    c : float
