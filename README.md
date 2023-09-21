@@ -136,7 +136,8 @@ Resolver los siguientes problemas usando un notebook de python y subirlos a un r
 
 
 
-Notebook de Jupyter:
+Notebook de Jupyter en archivo adjunto reto4.ipynb o acá:
+
 https://colab.research.google.com/drive/1OVvz7fRnVKlxQzJ0nSfWFMbSdkN3tlWp?usp=sharing
 
 
